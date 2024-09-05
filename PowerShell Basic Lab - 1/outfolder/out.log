@@ -1,0 +1,44 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\PowerShell Basic Lab - 1\lab1.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\PowerShell Basic Lab - 1","lab1.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Documents\PowerShell Basic Lab - 1\lab1.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","lab1","System.Collections.Generic.List`1[System.String]",,"lab1.ps1","562","C:\Users\champuser\Documents\PowerShell Basic Lab - 1","C:\Users\champuser\Documents\PowerShell Basic Lab - 1","False","True","C:\Users\champuser\Documents\PowerShell Basic Lab - 1\lab1.ps1",".ps1","9/5/2024 2:58:24 PM","9/5/2024 6:58:24 PM","9/5/2024 2:58:26 PM","9/5/2024 6:58:26 PM","9/5/2024 2:58:26 PM","9/5/2024 6:58:26 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\PowerShell Basic Lab - 1\part1.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\PowerShell Basic Lab - 1","part1.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Documents\PowerShell Basic Lab - 1\part1.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","part1","System.Collections.Generic.List`1[System.String]",,"part1.ps1","562","C:\Users\champuser\Documents\PowerShell Basic Lab - 1","C:\Users\champuser\Documents\PowerShell Basic Lab - 1","False","True","C:\Users\champuser\Documents\PowerShell Basic Lab - 1\part1.ps1",".ps1","9/5/2024 2:58:45 PM","9/5/2024 6:58:45 PM","9/5/2024 2:58:46 PM","9/5/2024 6:58:46 PM","9/5/2024 2:58:46 PM","9/5/2024 6:58:46 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\PowerShell Basic Lab - 1\part2.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Documents\PowerShell Basic Lab - 1","part2.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Documents\PowerShell Basic Lab - 1\part2.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","part2","System.Collections.Generic.List`1[System.String]",,"part2.ps1","612","C:\Users\champuser\Documents\PowerShell Basic Lab - 1","C:\Users\champuser\Documents\PowerShell Basic Lab - 1","False","True","C:\Users\champuser\Documents\PowerShell Basic Lab - 1\part2.ps1",".ps1","9/5/2024 3:04:35 PM","9/5/2024 7:04:35 PM","9/5/2024 3:28:44 PM","9/5/2024 7:28:44 PM","9/5/2024 3:28:44 PM","9/5/2024 7:28:44 PM","Archive"
