@@ -37,7 +37,7 @@ return $loginoutsTable
      Function Explaination
 ****************************** #>
 function getFailedLogins($timeBack){
-  
+  Write-Host "Getting $timeBack days" | Out-String
   $failedlogins = Get-EventLog security -After (Get-Date).AddDays("-"+"$timeBack") | Where { $_.InstanceID -eq "4625" }
 
   $failedloginsTable = @()
@@ -61,6 +61,6 @@ function getFailedLogins($timeBack){
                                      }
 
     }
-
+    $failedloginsTable
     return $failedloginsTable
 } # End of function getFailedLogins
