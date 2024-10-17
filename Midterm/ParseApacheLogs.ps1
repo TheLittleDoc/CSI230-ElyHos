@@ -1,5 +1,5 @@
 ﻿function Get-ApacheLogs() {
-    $logs = Get-Content C:\Users\champuser\Downloads\access.log
+    $logs = Get-Content access.log
     $tableLog = @()
 
     for($i = 0; $i -lt $logs.Count; $i++) {
